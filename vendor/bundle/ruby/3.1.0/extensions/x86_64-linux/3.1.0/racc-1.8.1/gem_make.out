@@ -1,0 +1,15 @@
+current directory: /home/raj/chat_razorpay/my_razorpay_app/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/home/raj/.rbenv/versions/3.1.0/bin/ruby -I /home/raj/.rbenv/versions/3.1.0/lib/ruby/3.1.0 -r ./siteconf20241108-7976-ka3807.rb extconf.rb
+creating Makefile
+
+current directory: /home/raj/chat_razorpay/my_razorpay_app/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/raj/chat_razorpay/my_razorpay_app/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/raj/chat_razorpay/my_razorpay_app/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20241108-7976-ydseof/racc
